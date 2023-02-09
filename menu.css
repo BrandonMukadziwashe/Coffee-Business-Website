@@ -1,0 +1,30 @@
+  .coffee-menu {
+    background-color: #E5E4E2;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .coffee-menu ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .coffee-menu li {
+    width: 300px;
+    margin: 20px;
+  }
+  
+  .coffee-menu img {
+    width: 100%;
+  }
+  
+  .coffee-menu h3 {
+    margin-top: 20px;
+  }
+  
